@@ -1,1 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+.botao {
+    width:100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+input {
+    border-radius: 20px;
+    border-color: transparent;
+    background-color: rgb(75, 123, 124);
+    color:white;
+    height: 40px;
+    width: 160px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input:hover {
+    background-color: cadetblue;
+    color: white;
+    border-radius: 20px;
+    border-color: transparent;
+}
